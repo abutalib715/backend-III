@@ -10,5 +10,6 @@
         <module>cache-control</module>
         <module>grpc</module>
         <module>grpc-spring-boot</module>
+        <module>operating-system</module>
     </modules>
 </project>
