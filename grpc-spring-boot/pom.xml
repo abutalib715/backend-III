@@ -1,14 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.talib</groupId>
-    <artifactId>backend-III</artifactId>
+    <artifactId>greeting-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>backend-III</name>
+    <name>greeting-parent</name>
     <modules>
-        <module>uml-class-diagram</module>
-        <module>cache-control</module>
-        <module>grpc</module>
-        <module>grpc-spring-boot</module>
+        <module>greeting-common</module>
+        <module>greeting-service</module>
     </modules>
 </project>
