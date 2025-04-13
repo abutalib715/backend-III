@@ -8,5 +8,6 @@
     <modules>
         <module>uml-class-diagram</module>
         <module>cache-control</module>
+        <module>grpc</module>
     </modules>
 </project>
