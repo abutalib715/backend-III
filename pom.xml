@@ -11,5 +11,6 @@
         <module>grpc</module>
         <module>grpc-spring-boot</module>
         <module>operating-system</module>
+        <module>solid-principle</module>
     </modules>
 </project>
